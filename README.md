@@ -79,7 +79,7 @@ Attach an Internet Gateway to allow external connectivity for the public subnet.
 
 Screenshot:
 
-![Internet Gateway](screenshots/03-internet-gateway.png)
+![Internet Gateway](screenshots/03-igw.png)
 
 ---
 
@@ -89,7 +89,7 @@ A NAT Gateway allows instances in the private subnet to access the internet for 
 
 Screenshot:
 
-![NAT Gateway](screenshots/04-nat-gateway.png)
+![NAT Gateway](screenshots/04-nat.png)
 
 ---
 
@@ -106,7 +106,7 @@ SSH (22) → My IP
 
 Screenshot:
 
-![Bastion Instance](screenshots/05-bastion-instance.png)
+![Bastion Instance](screenshots/05-bastion.png)
 
 ---
 
@@ -123,7 +123,7 @@ SSH (22) → Bastion Security Group
 
 Screenshot:
 
-![Private Instance](screenshots/06-private-instance.png)
+![Private Instance](screenshots/06-private-ec2.png)
 
 ---
 
